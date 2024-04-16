@@ -4,7 +4,8 @@ import java.util.Scanner;
 
 public class MatrixOperations {
     private static final int MAX_SIZE = 20;
-    private static final int MIN_VALUE = 1;
+
+    private static final int MIN_VALUE = 12;
     private static final int MAX_VALUE = 100;
 
     public static void main(String[] args) {
